@@ -1,2 +1,2 @@
 # Leetcode-Python
-Soltuions
+Solutions 1-1000
